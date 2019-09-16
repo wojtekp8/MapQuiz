@@ -1,0 +1,26 @@
+.head{
+  padding:4px;
+  margin:4px;
+  background-color: antiquewhite;
+  height:3rem;
+  border:1px solid gold;
+  border-radius:10px;
+  display:flex;
+  justify-content: space-between;
+  h1{
+    color: crimson;
+    font-weight: bold;
+    span{
+      color: #08304b;
+      font-size: 1em;
+      font-weight: bold;
+      //border:1px solid green;
+    }
+  }
+  h2{
+    font-size:1.5em;
+  }
+}
+.head-side{
+  background-color: white;
+}

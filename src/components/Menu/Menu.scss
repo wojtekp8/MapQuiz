@@ -1,0 +1,42 @@
+
+.menuBackground{
+  background-image: url("../Layout/main.jpg");
+  background-size: cover;
+}
+.menu{
+  margin-top:5rem;
+  height: 20rem;
+  width:100%;
+  background-color: skyblue;
+  border-radius: 10px;
+  border: 2px solid darkblue;
+  text-align:center;
+  h1{
+    margin-top:20px;
+    font-size: 3em;
+    color:white;
+  }
+  p{
+    font-size: 0.8em;
+    line-height:1.6 ;
+    margin:10px;
+    color:palegoldenrod;
+  }
+  button{
+    margin-top:20px;
+    width:180px;
+    height:40px;
+    color:white;
+    background-color: #24baa0;
+    border-radius: 7px;
+    border: none;
+    font-size:18px;
+  }
+  button:hover{
+    color:#24baa0;
+    background-color: white;
+    border-radius: 7px;
+    border: none;
+    font-size:18px;
+  }
+}

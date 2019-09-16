@@ -1,0 +1,43 @@
+.summaryBackground{
+  background-image:url("../Layout/mainEnd.jpg");
+}
+.summary{
+  margin-top:5rem;
+  height: 20rem;
+  width:100%;
+  background-color: #08304b;
+  border-radius: 10px;
+  border: 2px solid darkblue;
+  text-align:center;
+  h1{
+    margin-top:50px;
+    font-size: 2em;
+    color:white;
+  }
+  h2{
+    color:white;
+    font-size:1.3em
+  }
+  p{
+    font-size: 1em;
+    line-height:1.6 ;
+    color:gold;
+  }
+  button{
+    margin-top:60px;
+    width:180px;
+    height:40px;
+    color:white;
+    background-color: #24baa0;
+    border-radius: 7px;
+    border: none;
+    font-size:18px;
+  }
+  button:hover{
+    color:white;
+    background-color: gold;
+    border-radius: 7px;
+    border: none;
+    font-size:18px;
+  }
+}
