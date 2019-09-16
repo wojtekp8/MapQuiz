@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/MapQuiz/static/css/main.bdf4187a.chunk.css",
+    "main.js": "/MapQuiz/static/js/main.4b4a9def.chunk.js",
+    "main.js.map": "/MapQuiz/static/js/main.4b4a9def.chunk.js.map",
+    "runtime~main.js": "/MapQuiz/static/js/runtime~main.1bfd51f1.js",
+    "runtime~main.js.map": "/MapQuiz/static/js/runtime~main.1bfd51f1.js.map",
+    "static/js/2.dc2dad63.chunk.js": "/MapQuiz/static/js/2.dc2dad63.chunk.js",
+    "static/js/2.dc2dad63.chunk.js.map": "/MapQuiz/static/js/2.dc2dad63.chunk.js.map",
+    "index.html": "/MapQuiz/index.html",
+    "precache-manifest.81b8fce3000d5e5fe03c5aec5f4429b3.js": "/MapQuiz/precache-manifest.81b8fce3000d5e5fe03c5aec5f4429b3.js",
+    "service-worker.js": "/MapQuiz/service-worker.js",
+    "static/css/main.bdf4187a.chunk.css.map": "/MapQuiz/static/css/main.bdf4187a.chunk.css.map",
+    "static/media/Menu.scss": "/MapQuiz/static/media/main.5eee6406.jpg",
+    "static/media/EndGame.scss": "/MapQuiz/static/media/mainEnd.718c0f54.jpg"
+  }
+}
